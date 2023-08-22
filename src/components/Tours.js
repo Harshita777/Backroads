@@ -28,7 +28,7 @@ const Tours = () => {
                     {location}
                   </p>
                   <p>{duration}</p>
-                  <p>{cost}</p>
+                  <p>${cost}</p>
                 </div>
               </div>
             </article>
